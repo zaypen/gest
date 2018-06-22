@@ -1,4 +1,4 @@
-package test
+package gest
 
 import "testing"
 

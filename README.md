@@ -19,7 +19,7 @@ import (
 	"github.com/zaypen/gest"
 )
 
-func TestCompareVersion(t *testing.T)  {
+func TestPlus(t *testing.T)  {
 	gest.I(t).Should("1 + 2 == 3").Expect(1 + 2).ToBe(3)
 }
 ```
